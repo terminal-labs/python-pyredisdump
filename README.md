@@ -1,4 +1,4 @@
-# pyredis-dump - A Redis Dump/Restore Tool
+# pyredisutil - A Redis Dump/Restore Tool
 
 Inspired by [redis-dump-load](https://github.com/p/redis-dump-load)
 but can handle binary blobs not just text.
